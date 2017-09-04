@@ -1,3 +1,6 @@
 Git-Course
 
-Este é um repositório teste para ensinar como o got funciona
+Este é um repositório teste para ensinar como o Git funciona.
+
+Saiba mais em [google.com](http://www.google.com)
+
